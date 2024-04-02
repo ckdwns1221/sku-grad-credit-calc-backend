@@ -20,7 +20,7 @@
 <div align="center">
 <img src="https://github.com/ckdwns1221/ckdwns1221/assets/130385395/62beb26f-4674-4043-90b1-e3c941a6840e" width="200" height="auto">
 <br />
-#### 성결대학교 멋쟁이사자처럼 11기 X 성결대학교 멋쟁이사자처럼 12기
+**성결대학교 멋쟁이사자처럼 11기 X 성결대학교 멋쟁이사자처럼 12기**
 
 </div>
 
